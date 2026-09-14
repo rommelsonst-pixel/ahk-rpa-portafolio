@@ -1,0 +1,9 @@
+# Archivos temporales y copias
+*.bak
+*.tmp
+*.~
+*.swp
+
+# Datos sensibles / locales
+*.env
+.env
