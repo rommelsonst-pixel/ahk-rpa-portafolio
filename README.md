@@ -15,7 +15,10 @@ Robots de automatización de escritorio (RPA) y API en AutoHotkey v2.
 | 03 | `03-com-outlook-invisible/` | Enviar correo con adjunto usando Outlook en segundo plano (100% invisible) | COM (Outlook.Application) |
 | 04 | `04-smtp-sin-outlook/` | Enviar correo directo por SMTP (CDO.Message) sin tener Outlook instalado | CDO + SMTP SSL |
 | 05 | `05-rest-api/` | Consumir una API REST por GET y validar la respuesta (status 200) | MSXML2.XMLHTTP.6.0 |
-| 06 | `06-tmac-mac-cli/` | Cambiar la dirección MAC del adaptador por línea de comandos (sin UI) | CLI backend (RunWait) |
+| 06 | `06-tmac-mac-cli/` | Cambiar la dirección MAC del adaptador por línea de comandos (sin UI) | CLI backend 
+| 07 | `07-Automatización de SAP R-3 RMCA vía Scripting COM.ahk` | Conexión a SAP GUI activo, ejecución de transacción RMCA (FPL9), extracción de filas del Grid y captura de HardCopy nativa | SAP GUI Scripting COM (`SAPFEWSELib`) |
+
+(RunWait) |
 
 ## Cómo ejecutar
 
