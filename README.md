@@ -17,8 +17,8 @@ Robots de automatización de escritorio (RPA) y API en AutoHotkey v2.
 | 05 | `05-rest-api/` | Consumir una API REST por GET y validar la respuesta (status 200) | MSXML2.XMLHTTP.6.0 |
 | 06 | `06-tmac-mac-cli/` | Cambiar la dirección MAC del adaptador por línea de comandos (sin UI) | CLI backend 
 | 07 | `07-Automatización de SAP R-3 RMCA vía Scripting COM.ahk` | Conexión a SAP GUI activo, ejecución de transacción RMCA (FPL9), extracción de filas del Grid y captura de HardCopy nativa | SAP GUI Scripting COM (`SAPFEWSELib`) |
-| 09 | `09-legacy-system-injection-framework/` | Inyección secuencial por ráfaga de hardware emulada a nivel de kernel en consolas heredadas (FoxPro DOS) |
-| 10 | `10-peripheral-kiosk-checkout-ux/` | Diseño de Front-End táctil minimalista (UI/UX) para terminales periféricas de autoservicio (Autocheckout) |
+| 08 | `09-legacy-system-injection-framework/` | Inyección secuencial por ráfaga de hardware emulada a nivel de kernel en consolas heredadas (FoxPro DOS) |
+| 09 | `10-peripheral-kiosk-checkout-ux/` | Diseño de Front-End táctil minimalista (UI/UX) para terminales periféricas de autoservicio (Autocheckout) |
 (RunWait) |
 
 ## Cómo ejecutar
