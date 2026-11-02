@@ -2,7 +2,7 @@
 
 Robots de automatización de escritorio (RPA) y API en AutoHotkey v2.
 
-**Autor:** [Tu Nombre] — Senior QA Automation Engineer | RPA Developer
+**Autor:** [Rommel] — Senior QA Automation Engineer | RPA Developer
 
 **Stack:** AutoHotkey v2 · UI Automation (UIA) · COM (Excel/Outlook) · CDO/SMTP · REST APIs (MSXML2.XMLHTTP) · Control de red por CLI
 
